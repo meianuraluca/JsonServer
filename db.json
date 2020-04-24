@@ -1,4 +1,4 @@
-[{
+{"info":[{
   "article1": "Sudoku is played on a grid of 9 x 9 spaces. Within the rows and columns are 9 “squares” (made up of 3 x 3 spaces). Each row, column and square (9 spaces each) needs to be filled out with the numbers 1-9, without repeating any numbers within the row, column or square. ",
   "article2": "As you can see, in the upper left square (circled in blue), this square already has 7 out of the 9 spaces filled in. The only numbers missing from the square are 5 and 6. By seeing which numbers are missing from each square, row, or column, we can use process of elimination and deductive reasoning to decide which numbers need to go in each blank space.",
   "article3": "Sudoku is a game of logic and reasoning, so you shouldn’t have to guess. If you don’t know what number to put in a certain space, keep scanning the other areas of the grid until you seen an opportunity to place a number.",
@@ -17,3 +17,4 @@
   "article4":"Voici un exemple. Dans cette grille de Sudoku (illustrée ci-dessous), la colonne verticale à l'extrême gauche (entourée en bleu) ne manque que quelques chiffres: 1, 5 et 6.Une façon de déterminer quels nombres peuvent aller dans chaque espace est d'utiliser  processus d'élimination »en vérifiant pour voir quels autres numéros sont déjà inclus dans chaque carré - car il ne peut y avoir de duplication des numéros 1-9 dans chaque carré (ou ligne ou colonne)"
 }
 ]
+}
